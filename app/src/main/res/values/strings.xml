@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VillageGreen</string>
+    <string name="prod_list">Produits</string>
+    <string name="home">Accueil</string>
+    <string name="compte">Mon compte</string>
+    <string name="pro_ref">Ref</string>
+    <string name="pro_lib">Lib</string>
+    <string name="pro_des">Des</string>
+    <string name="pro_priV">Prix</string>
+</resources>
